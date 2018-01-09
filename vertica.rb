@@ -6,7 +6,7 @@ class Vertica < Formula
   homepage "http://my.vertica.com/"
   url "https://storage.googleapis.com/homebrew-rafe/vsql-9.0.0-1.tar.gz"
   version "9.0.0"
-  sha256 "0d2982f7e65c72f54572bf0f15fc25937384eb6588a8097406e00e796d0a6e58"
+  sha256 "2c9925dd37884c3a48651531bd5cfdb4941e028270dd7f790cade53069cc6b7d"
 
   # depends_on "cmake" => :build
   # depends_on :x11 # if your formula requires any X11/XQuartz components
